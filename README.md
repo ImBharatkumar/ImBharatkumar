@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imbharatkumar" alt="imbharatkumar" /></a> </p>
 
-- 🔭 I’m currently working on **M/L**
+- 🔭 I’m currently working on **Machine learning and NLP**
 
 - 🌱 I’m currently learning **Data-science**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **ML and Deep learning**
 
-- 🤝 I’m looking for help with **M/L**
+- 🤝 I’m looking for help with **programming**
 
 - 💬 Ask me about **anything**
 
